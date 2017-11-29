@@ -70,7 +70,7 @@
                                      :show-minutes="true"
                                      :minute-step="5"
                     ></datetime-picker>
-                    <p>Date 3 is: <b>{{ date3 }}</b></p>
+                    <p>Date 4 is: <b>{{ date4 }}</b></p>
                     <div class="well"><pre><small>v-model="date4"
 :first-day="0"
 :show-dst="true"

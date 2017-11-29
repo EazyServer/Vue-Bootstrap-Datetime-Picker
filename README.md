@@ -73,7 +73,7 @@ In your ``App.vue``:
     }
 </script>
 ```
-* Please note the the supplied datetime MUST be in this format: ``YYYY-MM-SSThh:mm:ss`` as per the example above. This requirement is enforced by HTML 5 e.g. ``<input type="datetime-local" value='2018-01-22T22:00:00'>``
+* Please note the the supplied datetime MUST be in this format: ``YYYY-MM-DDThh:mm:ss`` as per the example above. This requirement is enforced by HTML 5 e.g. ``<input type="datetime-local" value='2018-01-22T22:00:00'>``
 
 ## Copyright and License
 
