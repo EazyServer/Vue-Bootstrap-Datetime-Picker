@@ -1,7 +1,7 @@
 {
   "name": "vue-bootstrap-datetime-picker",
   "description": "Use the magical power of VueJS and beauty of Twitter Bootstrap to create a powerful Datetime Picker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Yarob Al-Taay <eazyserver.net@gmail.com>",
   "homepage": "https://github.com/EazyServer/Vue-Bootstrap-Datetime-Picker",
   "repository": {

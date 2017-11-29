@@ -38,14 +38,14 @@ v-model='date'
 :second-step = 1 // any int number, if not used will be assumed 1
 ```
 
-You may need to include datetime picker helper CSS, can be found [here](https://raw.githubusercontent.com/EazyServer/Vue-Bootstrap-Datetime-Picker/master/assets/datetime-picker.css)
+You may need to include datetime picker helper CSS, can be found [here](https://raw.githubusercontent.com/EazyServer/Vue-Bootstrap-Datetime-Picker/master/src/assets/datetime-picker.css)
 
 ``DatetimePicker`` will listen to [i18n](https://github.com/kazupon/vue-i18n) internationalization plugin if attached to `window` object. Otherwise the package will use english.
 ####Example:
 
 In your ``App.vue``:
 
-```vue
+```javascript
 <template>
     <div id="app">
         <datetime-picker
