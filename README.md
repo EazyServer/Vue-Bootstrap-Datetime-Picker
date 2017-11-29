@@ -1,12 +1,14 @@
 # Vue Bootstrap Datetime Picker
 
-> Uses the magical power of VueJS v2 and beauty of Twitter Bootstraps to create a powerful Datetime picker, Finally!! See the [Demo site](https://eazyserver.github.io/Vue-Bootstrap-Datetime-Picker/).
+> Uses the magical power of VueJS v2 and beauty of Twitter Bootstraps to create a powerful Datetime picker using Vue `v-model`, Finally!! See the [Demo site](https://eazyserver.github.io/Vue-Bootstrap-Datetime-Picker/).
 
 
 ![Demo Vue Bootstrap Datetime picker](https://raw.githubusercontent.com/EazyServer/Vue-Bootstrap-Datetime-Picker/master/src/assets/vue-bootstrap-datetime-picker.png)
 
 
 This package only uses bootstrap ``CSS``, NO ``bootstrap.js`` or ``jquery.js`` is needed for this project. Its purely Vue2 implementation.
+
+The `DatetimePicker` uses the powerful `v-model` ([see here](https://vuejs.org/v2/guide/forms.html#Text))  to read and set Datetime. So no events firing is needed, basically it's Plug & Play.
 
 ## Install vue-bootstrap-DatetimePicker #
 
