@@ -3,7 +3,7 @@
 > Uses the magical power of VueJS v2 and beauty of Twitter Bootstraps to create a powerful Datetime picker, Finally!! See the [Demo site](https://eazyserver.github.io/Vue-Bootstrap-Datetime-Picker/).
 
 
-![Demo Vue Bootstrap Datetime picker](https://raw.githubusercontent.com/EazyServer/Vue-Bootstrap-Datetime-Picker/master/assets/vue-bootstrap-datetime-picker.png)
+![Demo Vue Bootstrap Datetime picker](https://raw.githubusercontent.com/EazyServer/Vue-Bootstrap-Datetime-Picker/master/src/assets/vue-bootstrap-datetime-picker.png)
 
 
 This package only uses bootstrap ``CSS``, NO ``bootstrap.js`` or ``jquery.js`` is needed for this project. Its purely Vue2 implementation.
