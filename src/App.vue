@@ -90,7 +90,6 @@
 
 <script>
 	import moment from "moment";
-	import {DatetimePicker} from './main';
 
 	export default {
 		data() {
@@ -102,7 +101,7 @@
 			};
 		},
 		components: {
-			DatetimePicker
+			DatetimePicker: require('./DatetimePicker.vue')
 		}
 	};
 </script>
